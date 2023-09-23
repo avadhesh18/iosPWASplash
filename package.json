@@ -1,0 +1,28 @@
+{
+  "name": "ios-pwa-splash",
+  "version": "1.0.0",
+  "description": "Generate iOS PWA splash screens on the fly!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avadhesh18/iosPWASplash.git"
+  },
+  "keywords": [
+    "ios",
+    "splash",
+    "screen",
+    "pwa",
+    "apple",
+    "iphone",
+    "ipad"
+  ],
+  "author": "Avadhesh B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avadhesh18/iosPWASplash/issues"
+  },
+  "homepage": "https://github.com/avadhesh18/iosPWASplash#readme"
+}
