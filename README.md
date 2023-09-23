@@ -40,6 +40,10 @@ Example
     iosPWASplash('path/to/icon.png', '#3498db');
     
 
+Test PWA
+-------
+Visit https://avadhesh18.github.io/iosPWASplashtest/ from your Apple iPhone or iPad device to test.
+
 Error Handling
 --------------
 
