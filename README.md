@@ -17,22 +17,14 @@ Using UNPKG CDN
 
     <script src="https://unpkg.com/ios-pwa-splash@1.0.0/cdn.min.js"></script>
     <script>iosPWASplash('icon.png', '#000000');</script>    
-
-You can also install `ios-pwa-splash` using npm or yarn:
-
-    npm install ios-pwa-splash
-    # or
-    yarn add ios-pwa-splash
-    
+ 
 
 Usage
 -----
     
-    //Not required if you use CDN
-    const iosPWASplash = require('ios-pwa-splash');
-    
     // Generate iOS PWA splash screens
     iosPWASplash('path/to/icon.png', 'background-color');
+    // Make sure the image is hosted on the same domain.
     
 
 *   `icon`: URL or local path to the app icon image (recommended size: 512px x 512px, will be resized based on device pixel ratio).
@@ -42,8 +34,6 @@ The `iosPWASplash` function generates iOS PWA splash screens for both portrait a
 
 Example
 -------
-    //Not required if you use CDN
-    const iosPWASplash = require('ios-pwa-splash');
     
     // Generate iOS PWA splash screens with a custom background color
     iosPWASplash('path/to/icon.png', '#3498db');
