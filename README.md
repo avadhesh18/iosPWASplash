@@ -3,20 +3,20 @@ ios-pwa-splash
 
 Generate iOS Progressive Web App (PWA) splash screens with ease. Save yourself the hassle of writing multiple meta tags for Apple iPhone and iPad devices. Just provide one icon.png file and a background color.
 
- [![NPM Version](https://img.shields.io/npm/v/ios-pwa-splash.svg)](https://www.npmjs.com/package/ios-pwa-splash)
+ [![NPM Version](https://img.shields.io/npm/v/ios-pwa-splash.svg)](https://www.npmjs.com/package/ios-pwa-splash) [![](https://data.jsdelivr.com/v1/package/npm/ios-pwa-splash/badge)](https://www.jsdelivr.com/package/npm/ios-pwa-splash)
 
 Installation
 ------------
-
-Using UNPKG CDN
-
-    <script src="https://unpkg.com/ios-pwa-splash@1.0.0/cdn.min.js"></script>
-    <script>iosPWASplash('icon.png', '#000000');</script>
 
 Using jsdelivr CDN
 
     <script src="https://cdn.jsdelivr.net/npm/ios-pwa-splash@1.0.0/cdn.min.js"></script>
     <script>iosPWASplash('icon.png', '#000000');</script>
+
+Using UNPKG CDN
+
+    <script src="https://unpkg.com/ios-pwa-splash@1.0.0/cdn.min.js"></script>
+    <script>iosPWASplash('icon.png', '#000000');</script>    
 
 You can also install `ios-pwa-splash` using npm or yarn:
 
